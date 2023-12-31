@@ -25,7 +25,7 @@ class _DicePageState extends State<DicePage> {
         appBar: AppBar(
           title: const Center(
             child: Text(
-              'Dicee for Zax',
+              'Dice for Zax',
               style: TextStyle(color: Colors.white),
             ),
           ),
@@ -50,7 +50,7 @@ class _DicePageState extends State<DicePage> {
                     fontWeight: FontWeight.w600),
               ),
               Text(
-                'How Much Additional pull ups gonna take Today ?',
+                'How many additional pull ups gonna take Today ?',
                 style: TextStyle(
                     color: Colors.white70,
                     fontSize: 15,
@@ -92,11 +92,11 @@ class _DicePageState extends State<DicePage> {
                 height: 70,
               ),
               Container(
+                margin: EdgeInsets.symmetric(horizontal: 50),
+                padding: EdgeInsets.symmetric(vertical: 20),
                 decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(10),
                     color: Colors.white),
-                width: 250,
-                height: 70,
                 child: Center(
                   child: Text(
                     "You've got $total pull ups",
