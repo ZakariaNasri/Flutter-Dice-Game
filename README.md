@@ -1,5 +1,7 @@
 # flutter_dice
 <img src="https://github.com/ZakariaNasri/Flutter-Dice-Game/assets/129872644/fbcc1d90-f3e2-4fd9-99ac-ddb3c3d5cfb5" alt="Zakaria Nasri GIF" width="200">
+
+
 A new Flutter project.
 
 # Dice for Zax
