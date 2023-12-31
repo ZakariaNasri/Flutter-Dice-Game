@@ -1,6 +1,7 @@
 # flutter_dice
-
 A new Flutter project.
+<img src="https://github.com/ZakariaNasri/Flutter-Dice-Game/assets/129872644/fbcc1d90-f3e2-4fd9-99ac-ddb3c3d5cfb5" alt="Zakaria Nasri GIF" width="200">
+
 
 # Dice for Zax
 
@@ -9,7 +10,6 @@ Welcome to **Dice for Zax** – an app designed to help you determine how many a
 ## Overview
 
 Dice for Zax is a simple Flutter app that generates two dice rolls, representing the number of pull-ups you should aim for today. The app includes a personalized touch, featuring your name and a profile image.
-<img src="https://github.com/ZakariaNasri/Flutter-Dice-Game/assets/129872644/fbcc1d90-f3e2-4fd9-99ac-ddb3c3d5cfb5" alt="Zakaria Nasri GIF" width="200">
 
 ## Features
 
