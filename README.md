@@ -1,4 +1,5 @@
 # flutter_dice
+![diceAppGif](https://github.com/ZakariaNasri/Flutter-Dice-Game/assets/129872644/fbcc1d90-f3e2-4fd9-99ac-ddb3c3d5cfb5)
 
 A new Flutter project.
 
@@ -18,6 +19,9 @@ Dice for Zax is a simple Flutter app that generates two dice rolls, representing
 
 ## Screenshots
 
+![photo_2023-12-31_23-44-51](https://github.com/ZakariaNasri/Flutter-Dice-Game/assets/129872644/e98724b0-2590-485d-b79c-b8656de1ddb6)
+
+![diceAppGif](https://github.com/ZakariaNasri/Flutter-Dice-Game/assets/129872644/fbcc1d90-f3e2-4fd9-99ac-ddb3c3d5cfb5)
 ## Getting Started
 
 1. Clone the repository:
